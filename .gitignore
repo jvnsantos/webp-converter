@@ -1,0 +1,6 @@
+/node_modules
+OUTPUT/*
+INPUT/*
+
+package-lock.json
+yarn-lock.json
